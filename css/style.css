@@ -1,0 +1,20 @@
+body{
+  background-image: url("../giphy.gif");
+}
+h1{
+  font-family: monospace;
+  background-color: black;
+  color: black;
+   text-shadow: 3px 3px #7FFF00;
+  filter: drop-shadow(30px 10px 4px #4444dd);
+}
+p{
+  background-image: url("../giphy-1.gif");
+  color: salmon;
+  text-shadow: -4px 10px #F6ED21;
+  font-size: 500%;
+  width: 80%;
+  height: 1000px;
+  margin: 0 auto;
+
+}
